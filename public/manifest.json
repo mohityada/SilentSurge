@@ -1,0 +1,18 @@
+{
+  "name": "SilentSurge",
+  "short_name": "SilentSurge",
+  "description": "Mean-Reversion Screener — NSE Stocks Pumping Without Social Chatter",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1a",
+  "theme_color": "#00e5ff",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
